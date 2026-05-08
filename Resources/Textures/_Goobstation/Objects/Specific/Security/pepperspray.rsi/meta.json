@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from GoobStation at https://github.com/space-syndicate/Goob-Station/tree/55b8f5d751bdd660de0d92f0b4ee7c498c4ba644/Resources/Textures/_Goobstation/Objects/Specific/Security/pepperspray.rsi",
+    "size": {
+      "x": 32,
+      "y": 32
+    },
+    "states": [
+      {
+        "name": "icon"
+      },
+	  {
+        "name": "inhand-left",
+		"directions": 4
+      },
+	  {
+        "name": "inhand-right",
+		"directions": 4
+      }
+	]
+}
